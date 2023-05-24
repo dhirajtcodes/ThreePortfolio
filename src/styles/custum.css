@@ -1,0 +1,11 @@
+.bg-primary {
+    background-color: #050816;
+}
+
+.hero-section {
+    background-image: url(../assets/herobg.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
